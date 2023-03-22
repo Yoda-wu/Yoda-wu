@@ -1,5 +1,6 @@
 ### Hi there 👋 I'm Yoda-Wu
-[![GitHub](https://img.shields.io/github/stars/Yoda-wu?style=social)](https://github.com/Yoda-Wu)
+---
+
 
 
 <!--
