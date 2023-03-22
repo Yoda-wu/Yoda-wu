@@ -1,5 +1,5 @@
 ### Hi there 👋 I'm Yoda-Wu
-[![GitHub](https://img.shields.io/badge/dynamic/json?logo=github&label=GitHub&labelColor=495867&color=495867&style=flat-square)](https://github.com/Yoda-Wu)
+[![GitHub](https://img.shields.io/github/stars/Yoda-wu?style=social)](https://github.com/Yoda-Wu)
 
 
 <!--
