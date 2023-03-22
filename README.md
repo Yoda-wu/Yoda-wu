@@ -4,9 +4,9 @@
 - 🌱 I’m currently learning Java and Golang
 
 - 💬 Ask me about 
-- - ☕️ Java
-- - 🐨 Golang
-- - 🎮 CSGO
+  - ☕️ Java
+  - 🐨 Golang
+  - 🎮 CSGO
 
 - 🎓 Student in south china university of technology
 
