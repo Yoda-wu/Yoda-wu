@@ -2,11 +2,14 @@
 ---
 
 - 🌱 I’m currently learning Java and Golang
+
 - 💬 Ask me about 
 - - ☕️ Java
 - - 🐨 Golang
 - - 🎮 CSGO
+
 - 🎓 Student in south china university of technology
+
 - 📫 How to reach me: [eamil](d1286360646@outlook.com)
 
 <!-- - ⚡ Fun fact: ...
