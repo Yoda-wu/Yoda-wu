@@ -10,7 +10,7 @@
 
 - 🎓 Student in south china university of technology
 
-- 📫 How to reach me: [eamil](d1286360646@outlook.com)
+- 📫 How to reach me: [email](d1286360646@outlook.com)
 
 <!-- - ⚡ Fun fact: ...
 - 👯 I’m looking to collaborate on ...
