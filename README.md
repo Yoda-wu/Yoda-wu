@@ -1,12 +1,12 @@
 ### Hi there 👋 I'm Yoda-Wu
 ---
 
-- 🌱 I’m currently learning Java and Golang
+- 🌱 I’m currently learning Python and Golang
 
 - 💬 Ask me about 
   - ☕️ Java
   - 🐨 Golang
-  - 🎮 CSGO
+ 
 
 - 🎓 Student in south china university of technology
 
